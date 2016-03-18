@@ -27,6 +27,7 @@ yum install -y mongodb-org
 - mongodb-org-shell
 - mongodb-org-tools
 
+#### 默认选项
 
 - 默认配置文件位置：/etc/mongod.conf
 - 默认日志位置： /var/log/mongodb/mongod.log
