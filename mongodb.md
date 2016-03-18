@@ -35,6 +35,11 @@ yum install -y mongodb-org
 
 ### 常用命令
 
+启动 mongodb
+```shell
+service mongod start
+```
+
 开机启动 mongodb
 ```shell
 chkconfig mongod on
